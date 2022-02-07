@@ -20,6 +20,7 @@ elif cmd_wish == '!trivia':
  print("Still under developement")
 
 
+
 else:
   print("That is not a command! Do !commands to see all commands.")
   sys.exit()
