@@ -1,4 +1,5 @@
 import os
+from replit import db
 import sys
 
 bot_name = 'Lookar'
@@ -18,8 +19,6 @@ elif cmd_wish == '!greet':
 elif cmd_wish == '!trivia':
 
  print("Still under developement")
-
-
 
 else:
   print("That is not a command! Do !commands to see all commands.")
